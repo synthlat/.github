@@ -1,5 +1,5 @@
 ## SYNTHLAT
-The best all-in-one music bot, add sound filters to your music, get song lyrics while listening and much more.
+Synthlat es un bot de discord multifuncionlal en español. Incluye modulos de bienvenida, despedida, tickets, invite tracker, niveles, reportes con la posibilidad de ser auditados con IA, canales temporales, entre otros.
 
 ###
 
